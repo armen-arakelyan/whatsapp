@@ -1,3 +1,0 @@
-2022/12/24-12:17:03.143 2b6c Creating DB C:\Users\Armen\Desktop\interview\cache\auth_info_multi.json\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
-2022/12/24-12:17:03.246 2b6c Reusing MANIFEST C:\Users\Armen\Desktop\interview\cache\auth_info_multi.json\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/24-12:17:03.486 2d20 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
